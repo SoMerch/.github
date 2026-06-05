@@ -90,7 +90,7 @@ SoMerch is available across web, mobile, and desktop platforms.
 
 | Platform | Link |
 |---|---|
-| Web | [app.somerch.co](https://app.somerch.co) |
+| Web | [somerch.co](https://somerch.co) |
 | iOS | [Download from the App Store](https://apps.apple.com/us/app/somerch-company-merch/id6771002983) |
 | Android | [Get it on Google Play](https://play.google.com/store/apps/details?id=co.somerch.app) |
 | Windows | [Get it from Microsoft Store](https://apps.microsoft.com/detail/9nlpq3cps6k5) |
@@ -100,7 +100,6 @@ SoMerch is available across web, mobile, and desktop platforms.
 ## Useful links
 
 - Website: [somerch.co](https://somerch.co)
-- Web App: [app.somerch.co](https://app.somerch.co)
 - iOS App: [SoMerch on the App Store](https://apps.apple.com/us/app/somerch-company-merch/id6771002983)
 - Android App: [SoMerch on Google Play](https://play.google.com/store/apps/details?id=co.somerch.app)
 - Windows Desktop App: [SoMerch on Microsoft Store](https://apps.microsoft.com/detail/9nlpq3cps6k5)
