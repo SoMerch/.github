@@ -1,1 +1,8 @@
-
+blank_issues_enabled: false
+contact_links:
+  - name: Product and customer support
+    url: https://somerch.co
+    about: Contact SoMerch for demos, orders, customer support, and managed merch programs.
+  - name: Security report
+    url: mailto:support@somerch.co
+    about: Please report security issues privately by email, not in public GitHub issues.
