@@ -1,0 +1,14 @@
+somerch-github-profile-repo/
+├── README.md
+├── profile/
+│   └── README.md
+├── SECURITY.md
+├── SUPPORT.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+└── .github/
+    └── ISSUE_TEMPLATE/
+        ├── config.yml
+        ├── feedback.md
+        ├── documentation.md
+        └── integration-request.md
